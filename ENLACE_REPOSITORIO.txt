@@ -1,0 +1,30 @@
+EVIDENCIA GA7-220501096-AA4-EV03
+COMPONENTE FRONT-END DEL PROYECTO FORMATIVO
+
+Proyecto:
+Sistema de Gestión de Inventarios de Activos con Tecnología RFID
+
+Aprendiz:
+Cristian Camilo Betancur Alzate
+
+Programa:
+Análisis y Desarrollo de Software
+
+Ficha:
+3336117
+
+Repositorio del front-end:
+https://github.com/CrissBett/RFIDInventarioFrontend
+
+Repositorio del back-end:
+https://github.com/CrissBett/RFIDCategoriaActivoSpring
+
+Rama principal:
+main
+
+Tecnologías principales:
+React, Vite, JavaScript, CSS3, Spring Boot y MySQL
+
+Estado:
+Módulo Categorías de activos funcional con operaciones de consulta,
+registro, actualización, eliminación, búsqueda y validación.
